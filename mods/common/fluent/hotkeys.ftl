@@ -89,6 +89,7 @@ hotkey-description-toselection = Jump to selection
 hotkey-description-selectallunits = Select all combat units
 hotkey-description-selectunitsbytype = Select units by type
 hotkey-description-cycleharvesters = Cycle Harvesters
+hotkey-description-CycleUnits = Cycle Units
 hotkey-description-pause = Pause / Unpause
 hotkey-description-sell = Sell mode
 hotkey-description-repair = Repair mode

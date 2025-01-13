@@ -28,6 +28,11 @@ CycleHarvesters: N
 	Types: World
 	Contexts: player, spectator
 
+CycleUnits: W Shift
+	Description: hotkey-description-CycleUnits
+	Types: World
+	Contexts: player, spectator
+
 Pause: PAUSE
 	Description: hotkey-description-pause
 	Types: World
